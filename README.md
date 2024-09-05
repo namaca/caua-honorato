@@ -1,4 +1,4 @@
-## Ola eu sou Cauã Honorato, estudante de programação e tecnologia!
+## Ola eu sou Cauã Honorato, estudante analise e desenvolvimento de sistemas
 
 
 <div style="display: inline_block"><br>
